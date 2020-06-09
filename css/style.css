@@ -42,10 +42,14 @@ body{
 .nav-link{
     color: white !important;
 }
+
 .active {
     color: #ee2858 !important;
 }
 
+.but-i{
+    color: white !important;
+}
 .card{
     box-shadow: 0px 0px 5px 5px rgb(26, 26, 26);
 }
